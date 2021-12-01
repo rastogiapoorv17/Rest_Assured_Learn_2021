@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5575" started-at="2021-04-25T06:29:40Z" finished-at="2021-04-25T06:29:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5575" started-at="2021-04-25T06:29:40Z" finished-at="2021-04-25T06:29:46Z">
+      <class name="basic.DynamicJsonExample">
+        <test-method status="PASS" signature="AddBook(java.lang.String, java.lang.String)[pri:0, instance:basic.DynamicJsonExample@3ffc5af1]" name="AddBook" duration-ms="4683" started-at="2021-04-25T06:29:40Z" data-provider="BookData" finished-at="2021-04-25T06:29:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cdw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method status="PASS" signature="AddBook(java.lang.String, java.lang.String)[pri:0, instance:basic.DynamicJsonExample@3ffc5af1]" name="AddBook" duration-ms="203" started-at="2021-04-25T06:29:45Z" data-provider="BookData" finished-at="2021-04-25T06:29:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method status="PASS" signature="AddBook(java.lang.String, java.lang.String)[pri:0, instance:basic.DynamicJsonExample@3ffc5af1]" name="AddBook" duration-ms="172" started-at="2021-04-25T06:29:45Z" data-provider="BookData" finished-at="2021-04-25T06:29:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsq]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[211]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddBook -->
+        <test-method status="PASS" signature="DeleteBook(java.lang.String, java.lang.String)[pri:0, instance:basic.DynamicJsonExample@3ffc5af1]" name="DeleteBook" duration-ms="156" started-at="2021-04-25T06:29:45Z" data-provider="BookData" finished-at="2021-04-25T06:29:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cdw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBook -->
+        <test-method status="PASS" signature="DeleteBook(java.lang.String, java.lang.String)[pri:0, instance:basic.DynamicJsonExample@3ffc5af1]" name="DeleteBook" duration-ms="156" started-at="2021-04-25T06:29:45Z" data-provider="BookData" finished-at="2021-04-25T06:29:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[321]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBook -->
+        <test-method status="PASS" signature="DeleteBook(java.lang.String, java.lang.String)[pri:0, instance:basic.DynamicJsonExample@3ffc5af1]" name="DeleteBook" duration-ms="141" started-at="2021-04-25T06:29:45Z" data-provider="BookData" finished-at="2021-04-25T06:29:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsq]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[211]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteBook -->
+      </class> <!-- basic.DynamicJsonExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
